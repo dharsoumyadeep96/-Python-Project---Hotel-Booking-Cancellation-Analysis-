@@ -8,6 +8,9 @@
 > **End-to-End Python Data Analysis Project**  
 > Analyzing hotel booking cancellations to reduce revenue leakage and optimize operational efficiency in the hospitality domain.
 
+
+## Video Presetation :- https://youtu.be/uXmJi6ssP6w?si=NaANEiJArl1v7Oti
+
 ## 📊 Project Overview
 
 This project addresses the critical business problem of high cancellation rates affecting both City Hotels (41.7%) and Resort Hotels (27.8%). Through comprehensive data analysis of 118,897 booking records, we identify key drivers of cancellations and provide actionable strategic recommendations.
