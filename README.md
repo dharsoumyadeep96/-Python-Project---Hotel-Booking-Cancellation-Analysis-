@@ -224,7 +224,7 @@ All visualizations are available in the `reports/figures/` directory:
 Data Analyst | Virtual Intern at AtliQ Technologies
 
 - 📧 Email: soumyadeepdhar433@gmail.com
-- 💼 LinkedIn: [Soumyadeep Dhar](https://linkedin.com/in/soumyadeep-dhar)
+- 💼 LinkedIn: www.linkedin.com/in/soumyadeep-dhar-785724333
 - 🐙 GitHub: [@dharsoumyadeep96](https://github.com/dharsoumyadeep96)
 
 ## 📄 License
